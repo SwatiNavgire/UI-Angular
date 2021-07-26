@@ -1,0 +1,116 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "staffId": "",
+      "name": "bkk",
+      "mobileNo": "",
+      "emailId": "",
+      "id": 2
+    },
+    {
+      "staffId": "",
+      "name": "bkk",
+      "mobileNo": "",
+      "emailId": "",
+      "id": 3
+    },
+    {
+      "staffId": "",
+      "name": "bkk",
+      "mobileNo": "",
+      "emailId": "",
+      "id": 4
+    },
+    {
+      "staffId": "",
+      "name": "bkk",
+      "mobileNo": "",
+      "emailId": "",
+      "id": 5
+    },
+    {
+      "staffId": "",
+      "name": "Ajay",
+      "mobileNo": "",
+      "emailId": "",
+      "id": 6
+    },
+    {
+      "staffId": "",
+      "name": "jyoti",
+      "mobileNo": "",
+      "emailId": "",
+      "id": 7
+    },
+    {
+      "staffId": "",
+      "name": "gdgdv",
+      "mobileNo": "",
+      "emailId": "",
+      "id": 8
+    },
+    {
+      "staffId": "",
+      "name": "12313",
+      "mobileNo": "",
+      "emailId": "",
+      "id": 9
+    },
+    {
+      "staffId": null,
+      "name": null,
+      "mobileNo": null,
+      "emailId": null,
+      "id": 10
+    },
+    {
+      "staffId": "",
+      "name": "swati ",
+      "mobileNo": "",
+      "emailId": "",
+      "id": 11
+    },
+    {
+      "staffId": "",
+      "name": "",
+      "mobileNo": "9845037",
+      "emailId": "m;sdfjposk",
+      "id": 12
+    },
+    {
+      "staffId": "",
+      "mobileNo": "77430750375",
+      "emailId": "lhfpdjgoei[",
+      "id": 13
+    },
+    {
+      "staffId": "",
+      "staffName": "nlmvlm;lk;fk",
+      "mobileNo": "987765435317534",
+      "emailId": "dxgsjcjgk@gmail",
+      "id": 14
+    },
+    {
+      "staffId": "12334",
+      "staffName": "Swati",
+      "mobileNo": "976604444",
+      "emailId": "swati@1234",
+      "id": 15
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
